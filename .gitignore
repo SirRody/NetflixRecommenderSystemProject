@@ -1,0 +1,9 @@
+# Ignore archives and large data files 
+*.tar.gz 
+*.tar 
+__pycache__/ 
+*.pyc 
+*.txt   # Data files - too large for GitHub!
+netflix_incomplete.txt 
+netflix_complete.txt 
+*.pdf 
